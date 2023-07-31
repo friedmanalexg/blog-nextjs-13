@@ -1,11 +1,11 @@
 ---
-title: 'Breaking Down a Use of Filter and the Mental Phrasebook'
-date: '2022-08-1'
+title: "Breaking Down a Use of Filter and the Mental Phrasebook"
+date: "2022-08-01"
 ---
 
-*This blog was assigned as a part of my Flatiron Full Stack Development boot camp program. I have decided to use it as a record of my attempt to rapidly shift careers from an English Professor to a Full Stack Developer. My plan is to share some of what I learn while documenting the challenges I experience for the next batch of displaced English Professors who need to jump ship.*
+_This blog was assigned as a part of my Flatiron Full Stack Development boot camp program. I have decided to use it as a record of my attempt to rapidly shift careers from an English Professor to a Full Stack Developer. My plan is to share some of what I learn while documenting the challenges I experience for the next batch of displaced English Professors who need to jump ship._
 
-*As I write this, I am beginning my sixth week in the program.*
+_As I write this, I am beginning my sixth week in the program._
 
 ### Downtime is fleeting at best
 
@@ -18,9 +18,11 @@ is one of my favorite language learning strategies. A phrasebook is a curated li
 ### Adding Good Array Syntax to my Phrasebook
 
 was a crucial step in my approach to learning React. Unlike a written phrasebook, mental phrasebooks are committed to memory through study. That makes each phrase sort of expensive and time consuming, so you want to make sure what you memorize is useful under many contexts. In preparing for my React Front-end coding challenge, I noticed that there were many situations where I would need to compare data from an array to a string stored in state, and then return data that met certain criteria. With that in mind, I studied the following phrase:
+
 >     const filteredPokemons = pokemon.filter(pokemon => pokemon.name.toLowerCase().includes(searchQuery.toLowerCase()))
-Breaking this down into its vocabulary, anyone struggling to gather a working understanding of React should be able to see why this is such a powerful bit of code to commit to memory. It comes from the solution to a lab that teaches rendering cards with props. The “pokemon” here are an array of pokemon and their data we have fetched. The declared constant (a new array containing filtered pokemon data) will be passed as props to the component that renders cards on our page. The filter function is evoked to compare pokemon whose name, converted to lowercase, includes the search query string set by state (also converted to lowercase). Those ideas are all certainly useful for pokemon cards, but what else does it reinforce by implication?
-![poke search app image](/images/poke-search.png)
+>
+> Breaking this down into its vocabulary, anyone struggling to gather a working understanding of React should be able to see why this is such a powerful bit of code to commit to memory. It comes from the solution to a lab that teaches rendering cards with props. The “pokemon” here are an array of pokemon and their data we have fetched. The declared constant (a new array containing filtered pokemon data) will be passed as props to the component that renders cards on our page. The filter function is evoked to compare pokemon whose name, converted to lowercase, includes the search query string set by state (also converted to lowercase). Those ideas are all certainly useful for pokemon cards, but what else does it reinforce by implication?
+> ![poke search app image](/images/poke-search.png)
 
 ### Implications Can Provide an Anchor
 

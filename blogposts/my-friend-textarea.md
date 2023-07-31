@@ -1,11 +1,11 @@
 ---
-title: 'My Friend, the <textarea> Tag'
-date: '2022-10-5'
+title: "My Friend, the <textarea> Tag"
+date: "2022-10-05"
 ---
 
-*This blog was assigned as a part of my Flatiron Full Stack Development boot camp program. I have decided to use it as a record of my attempt to rapidly shift careers from an English Professor to a Full Stack Developer. My plan is to share some of what I learn while documenting the challenges I experience for the next batch of displaced English Professors who need to jump ship.*
+_This blog was assigned as a part of my Flatiron Full Stack Development boot camp program. I have decided to use it as a record of my attempt to rapidly shift careers from an English Professor to a Full Stack Developer. My plan is to share some of what I learn while documenting the challenges I experience for the next batch of displaced English Professors who need to jump ship._
 
-*As I write this, I am preparing my final project during the last week of boot camp.*
+_As I write this, I am preparing my final project during the last week of boot camp._
 
 This blog was supposed to be about implementing a Rich Text Editor plug-in for my final project. You’re going to have to check back in with me for that one, though — I just couldn’t get CKEditor working with my current code base. So, I guess I’ll have to come back to it! Over the past four weeks of projects, I’ve learned some lessons about trying to implement features. After a few humbling failures, I’ve come away with a few thoughts and a new appreciation for built-in feature functionality.
 

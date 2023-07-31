@@ -1,11 +1,11 @@
 ---
-title: 'Writing rescues for CRUD function errors in Ruby on Rails/ ActiveRecord'
-date: '2022-9-14'
+title: "Writing rescues for CRUD function errors in Ruby on Rails/ ActiveRecord"
+date: "2022-09-14"
 ---
 
-*This blog was assigned as a part of my Flatiron Full Stack Development boot camp program. I have decided to use it as a record of my attempt to rapidly shift careers from an English Professor to a Full Stack Developer. My plan is to share some of what I learn while documenting the challenges I experience for the next batch of displaced English Professors who need to jump ship.*
+_This blog was assigned as a part of my Flatiron Full Stack Development boot camp program. I have decided to use it as a record of my attempt to rapidly shift careers from an English Professor to a Full Stack Developer. My plan is to share some of what I learn while documenting the challenges I experience for the next batch of displaced English Professors who need to jump ship._
 
-*As I write this, I near the end of week twelve in the program.*
+_As I write this, I near the end of week twelve in the program._
 
 It’s good practice to protect your databases from bad data. One of the best ways to achieve that is by throwing errors when a post or patch request is made with invalid data. Let’s take a look at an example that tripped me up.
 
