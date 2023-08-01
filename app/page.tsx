@@ -1,3 +1,4 @@
+import Portfolio from "./components/Portfolio"
 import Posts from "./components/Posts"
 
 export default function Home() {
@@ -9,6 +10,7 @@ export default function Home() {
           I'm <span className="font-bold">Alex</span>.
         </span>
       </p>
+      <Portfolio/>
       <Posts />
     </main>
   )
