@@ -8,8 +8,16 @@ const page = () => {
         <div>
             <section className='mt-6 mx-auto max-w-3xl'>
                 <h2 className='text-4xl font-bold dark:text-white/90'>Portfolio</h2>
-                <p className='text-white'>Here is a sampling of my software development work.</p>
+                <p className="px-6 prose prose-xl mb-10 prose-slate dark:prose-invert mx-auto">
+        Here are some samples of the range of web app development I do. 
+                </p>
+                <h3 className='text-2xl font-bold dark:text-white/90'>This website</h3>
+                <p className="px-6 prose prose-xl prose-slate dark:prose-invert mx-auto">
+        This website, "Alex Friedman codes," was built in NextJS version 13, and styled with Tailwind. 
+        The blog posts are written in markdown and then interpretted by the webapp.
+                </p>
             </section>
+
             
             <section className='py-10 mt-6 mx-auto max-w-3xl'>
                 <div className=" "> 
