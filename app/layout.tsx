@@ -7,7 +7,7 @@ import MyProfilePic from './components/MyProfilePic'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Blog: Alex G Friedman',
+  title: 'alex friedman codes',
   description: 'created by Alex G Friedman',
 }
 
