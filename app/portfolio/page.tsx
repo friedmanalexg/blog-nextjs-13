@@ -8,13 +8,13 @@ const page = () => {
         <div>
             <section className='mt-6 mx-auto max-w-3xl'>
                 <h2 className='text-4xl font-bold dark:text-white/90'>Portfolio</h2>
-                <p className="px-6 prose prose-xl mb-10 prose-slate dark:prose-invert mx-auto">
+                <p className="px-6 prose prose-xl mb-10 prose-emerald dark:prose-invert mx-auto">
         Here are some samples of the range of web app development I do. 
                 </p>
                 <h3 className='text-2xl font-bold dark:text-white/90'>This website</h3>
-                <p className="px-6 prose prose-xl prose-slate dark:prose-invert mx-auto">
-        This website, "Alex Friedman codes," was built in NextJS version 13, and styled with Tailwind. 
-        The blog posts are written in markdown and then interpretted by the webapp.
+                <p className="px-6 prose prose-xl prose-emerald dark:prose-invert mx-auto">
+        This website, "Alex Friedman codes," was built in NextJS version 13, Typescript, and styled with Tailwind. 
+        The blog posts are written in markdown and then interpretted as HTML by the webapp.
                 </p>
             </section>
 
@@ -23,8 +23,8 @@ const page = () => {
                 <div className=" "> 
                 {/* Card 1 */}
             
-                    <div className=" bg-slate-400 rounded-xl text-center p-4 m-4 shadow-md">
-                    <h3 className='text-slate-900 text-center text-xl font-bold mb-2'>Jacobs' Chiropractic</h3>
+                    <div className=" bg-emerald-600 rounded-xl text-center p-4 m-4 shadow-md">
+                    <h3 className='text-emerald-950 text-center text-xl font-bold mb-2'>Jacobs' Chiropractic</h3>
                     
                     <p className='text-white font-bold'>JScript | React | Tailwind | Netlify</p>
                     
@@ -48,8 +48,8 @@ const page = () => {
                 
                 {/* Card 2 */}
 
-                    <div className=" bg-slate-400 rounded-xl text-center p-4 m-4 shadow-md">
-                        <h3 className='text-slate-900 text-center text-xl font-bold mb-2'>Shopping Here!</h3>
+                    <div className=" bg-emerald-600 rounded-xl text-center p-4 m-4 shadow-md">
+                        <h3 className='text-emerald-950 text-center text-xl font-bold mb-2'>Shopping Here!</h3>
                         
                         <p className='text-white font-bold'>JScript | Firebase | Typescript | Netlify</p>
                         
@@ -71,8 +71,8 @@ const page = () => {
 
 
                 {/* Card 3 */}
-                    <div className=" bg-slate-400 rounded-xl text-center p-4 m-4 shadow-md">
-                        <h3 className='text-slate-900 text-center text-xl font-bold mb-2'>Tee'd Off</h3>
+                    <div className=" bg-emerald-600 rounded-xl text-center p-4 m-4 shadow-md">
+                        <h3 className='text-emerald-950 text-center text-xl font-bold mb-2'>Tee'd Off</h3>
                         
                         <p className='text-white font-bold'>Ruby | Mastodon | Typescript | Netlify</p>
                         
