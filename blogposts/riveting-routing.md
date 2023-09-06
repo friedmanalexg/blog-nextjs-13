@@ -1,6 +1,6 @@
 ---
 title: 'Riveting Library Routing Trivia, Today'
-date: '2023-10-5'
+date: '2023-09-5'
 ---
 
 *This blog was assigned as a part of my Flatiron Full Stack Development boot camp program, but I am continuing it as my own project now. It is a record of my attempt to rapidly shift careers from an English Professor to a Software Developer. My plan is to share some of what I learn while documenting the challenges I experience for the next batch of displaced English Professors who need to jump ship.*
