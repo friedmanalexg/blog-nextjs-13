@@ -10,7 +10,7 @@ export default function Navbar() {
                 <Link href="/" className="text-white/90 no-underline hover:text-white"> Alex Friedman codes</Link>
             </h1>
             <div className="flex flex-row justify-center sm:justify-evenly align-middle gap-4 text-white text-2xl lg:text-3xl">
-                    <Link className='text-white/90 hover:text-white' href={"./portfolio"}> 
+                    <Link className='text-white/90 hover:text-white' href={"/portfolio"}> 
                     Portfolio
                     </Link>
                     <Link className="text-white/90 hover:text-white" href="https://www.linkedin.com/in/alex-friedman-codes/">
