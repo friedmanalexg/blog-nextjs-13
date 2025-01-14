@@ -14,7 +14,7 @@ const page = () => {
                 <h3 className='text-2xl font-bold dark:text-white/90'>This website</h3>
                 <p className="px-6 prose prose-xl prose-emerald dark:prose-invert mx-auto">
         This website, &ldquo;Alex Friedman codes,&ldquo; was built in NextJS version 13, Typescript, and styled with Tailwind. 
-        The blog posts are written in markdown and then interpretted as HTML by the webapp.
+        The blog posts are written in markdown and then rendered by the webapp.
                 </p>
             </section>
 
