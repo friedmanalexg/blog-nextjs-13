@@ -11,7 +11,7 @@ export default function Home() {
         </span>&nbsp;
       </p>
       <p className="px-6 prose prose-xl prose-emerald dark:prose-invert mx-auto">
-        This is my professional blog, where I write about coding. You can also find my portfolio and other relevant professional and social links above. Employment and business inquiries can be sent to alex-friedman-codes at protonmail dot com. Thanks for looking me up! 
+        This is my professional blog, where I write about technical writing, hardware, and coding. You can also find my portfolio and other relevant professional and social links above. Employment and business inquiries can be sent to alex-friedman-codes at protonmail dot com. Thanks for looking me up! 
       </p>
       
       <Posts />
