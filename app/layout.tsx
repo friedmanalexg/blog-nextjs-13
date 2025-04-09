@@ -20,8 +20,7 @@ export default function RootLayout({
     <html lang="en">
       <body className="dark:bg-slate-950">
         <Navbar />
-        <MyProfilePic />
-        {children}
+          {children}
       </body>
     </html>
   )
