@@ -7,7 +7,7 @@ const page = () => {
     return (
         <div>
             <section className='mt-6 mx-auto max-w-3xl'>
-                <h2 className='text-4xl font-bold dark:text-white/90'>Portfolio</h2>
+                <h2 className='text-4xl font-bold dark:text-white/90'>Code Portfolio</h2>
                 <p className="px-6 prose prose-xl mb-10 prose-emerald dark:prose-invert mx-auto">
         Here are some samples of the range of web app development I do. 
                 </p>
